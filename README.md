@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Orchea Test
 
 A test repository for Orchea project development and experimentation.
@@ -24,3 +25,6 @@ This repository serves as a testing and development environment for the Orchea p
 ---
 
 *Created for Orchea project recognition and organization*
+=======
+# orchea-test
+>>>>>>> ea3e20b55a80b9237fd90d47a04aac4defca31d3
